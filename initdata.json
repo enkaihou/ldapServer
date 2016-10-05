@@ -1,0 +1,13 @@
+[{
+  "usr": "abc",
+  "pwd": "abc",
+  "uid": "0001",
+  "gid": 0,
+  "userpassword": "0001"
+}, {
+  "usr": "mr",
+  "pwd": "mr",
+  "uid": "0002",
+  "gid": 0,
+  "userpassword": "0002"
+}]
